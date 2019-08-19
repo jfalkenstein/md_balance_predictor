@@ -1,0 +1,9 @@
+*.class
+__pycache__
+*.xlsx
+Scripts
+Lib
+.idea
+pip-selfcheck.json
+pyvenv.cfg
+logs.txt
